@@ -1,0 +1,23 @@
+{
+    "name": "inviqa/magento-hello-world-extension",
+    "type": "magento-module",
+    "license": "proprietary",
+    "description": "This is an example tutorial 'hello world' Magento module.",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://packages.firegento.com"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:elvetemedve/MagentoVersionChecker.git"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*",
+        "inviqa/magento-version-checker": "*"
+    },
+    "extra": {
+        "magento-version": "~1.14.0"
+    }
+}
