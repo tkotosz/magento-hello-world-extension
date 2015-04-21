@@ -1,0 +1,5 @@
+app/code/community/TinyApps/HelloWorld app/code/community/TinyApps/HelloWorld
+app/design/frontend/base/default/layout/helloworld.xml app/design/frontend/base/default/layout/helloworld.xml
+app/design/frontend/base/default/template/tinyapps/tinyapps/helloworld/fancy_hello.phtml app/design/frontend/base/default/template/tinyapps/tinyapps/helloworld/fancy_hello.phtml
+app/design/frontend/base/default/template/tinyapps/tinyapps/helloworld/blocks/fancy_hello.phtml app/design/frontend/base/default/template/tinyapps/tinyapps/helloworld/blocks/fancy_hello.phtml
+app/etc/modules/TinyApps_HelloWorld.xml app/etc/modules/TinyApps_HelloWorld.xml
