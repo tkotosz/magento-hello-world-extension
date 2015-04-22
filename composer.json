@@ -18,6 +18,7 @@
         "inviqa/magento-version-checker": "*"
     },
     "extra": {
-        "magento-version": "~1.14.0"
+        "magento-version-ee": "~1.14.0",
+        "magento-version-ce": "~1.9.0"
     }
 }
